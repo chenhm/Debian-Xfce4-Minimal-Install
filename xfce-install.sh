@@ -26,8 +26,8 @@ apt install -y \
     xfwm4 \
     adwaita-qt \
     qt5ct \
-    chromium \
-    fonts-arphic-ukai fonts-arphic-uming fonts-ipafont-mincho fonts-ipafont-gothic fonts-unfonts-core
+    firefox-esr \
+    fonts-noto-cjk
 
 echo 
 echo xfce install complete, please reboot and issue 'startx'
